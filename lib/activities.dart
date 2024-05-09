@@ -21,7 +21,9 @@ class Activities extends StatelessWidget {
             innerWidget(
                 title: 'Distance Travelled', value: '25 km', color: Colors.red),
             innerWidget(
-                title: 'Workout Logging time', value: '2 h', color: Colors.grey)
+                title: 'Workout Logging time',
+                value: '2 h',
+                color: Colors.grey),
           ],
         ),
       ),
